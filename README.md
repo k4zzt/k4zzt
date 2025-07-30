@@ -1,6 +1,6 @@
 <div align="center">
   
-`k4zzt/README.md`
+`kaazt`
 
 
 <img src="https://img.shields.io/badge/_ARCH_LINUX-purple?style=flat&logo=archlinux&logoColor=white&color=1e1e2e&labelColor=8b5cf6" />
